@@ -1,0 +1,37 @@
+header { 
+    width:100%;
+    padding:10px;
+    background:#c52f24;
+    color:#fff;
+    margin:0px;
+}
+
+footer {
+    width:100%;
+    padding:10px;
+    background:#c52f24;
+    color:#fff;
+    margin:0px;
+}
+
+table {
+    border-collapse:collapse;
+}
+
+table th {
+    background-color: #fbc25b;
+    padding: 10px 20px;
+    border: solid 1px black;
+}
+
+table td {
+    background-color: #f9ecd5;
+    padding: 10px 20px;
+    border: solid 1px black;
+    text-align: center;
+}
+
+.notice {
+    background-color: #ccf;
+    padding: 5px;
+}
