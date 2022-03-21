@@ -1,0 +1,13 @@
+   ja:
+      activerecord:
+        models:
+          task: タスク
+        attributes:
+          task:
+            title: タイトル
+            start_date: 開始日
+            end_date: 終了日
+            all_day: 終日
+            created_at: 作成日
+            updated_at: 更新日
+            memo: スケジュールメモ
